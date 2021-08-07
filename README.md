@@ -1,6 +1,6 @@
 # Data-Visualization
 
-Data Visualization
+This is a data visualization and creation of Interactive Dashboards project of "umbrella" using Power BI.
 
 POWER BI
 
